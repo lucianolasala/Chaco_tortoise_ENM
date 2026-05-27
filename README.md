@@ -5,32 +5,33 @@
 
 >* **Luciano F. La Sala**, Instituto de Ciencias Biológicas y Biomédicas del Sur (CONICET-UNS), Bahía Blanca, Argentina.  
 
-### Introducción 
-Este repositorio contiene todo el código de R, JavaScript y detalles metodológicos del trabajo  integrador  de la Diplomatura Universitaria en Geomática Aplicada del Instituto de Altos Estudios Espaciales Mario Gulich (CONAE/UNC). El código incluido se divide en secciones las cuales deben ser ejecutadas secuencialmente para reproducir el trabajo presentado. 
+### Introduction 
+This repository contains code used in analyses related to the publication **Chaco tortoise distribution and conservation needs: are they underprtected?**.  
+ 
 
-### Tabla de Contenidos 
+### Table of contentsssss 
 ----------
 
-[1. Flujo de trabajo](./Files/Flujo_trabajo.md)
+[1. Workflow](./Files/Flujo_trabajo.md)
 
-[2. Procesamiento de datos geospaciales](./README.md)  
-- [Lista de variables](./Files/Variables.md)
-- [Links a código Google Earth Engine](./Files/Links_scripts.md)
-- [Áreas protegidas](./Files/Areas_protegidas.md)
+[2. Geospatial data processing](./README.md)  
+- [Variables](./Files/Variables.md)
+- [Links to Google Earth Engine script](./Files/Links_scripts.md)
+- [Protected areas](./Files/Areas_protegidas.md)
 
-[3. Selección de variables ambientales](./Files/Seleccion_variables.md) 
+[3. Environmental variables selection](./Files/Seleccion_variables.md) 
 
-[4. Área de calibración](./O_turicata/Calibration_area/Calibration_area.md)
+[4. Calibration area](./O_turicata/Calibration_area/Calibration_area.md)
 
-[5. Curado y procesamiento datos de ocurrencia](./O_turicata/Occurrence_data/Occurrence_data.md)
+[5. Occurrence data preparation](./O_turicata/Occurrence_data/Occurrence_data.md)
 
-[6. Calibración, evaluación, creación de modelo final y proyección ](./O_turicata/Model_cal_eval_proj/Model_cal_eval_proj.md)
+[6. Model calibration, evaluation, final model creation & model projection ](./O_turicata/Model_cal_eval_proj/Model_cal_eval_proj.md)
 
-[7. Riesgo de extrapolación](./O_turicata/Extrapolation_risk/Extrapolation_risk.md)
+[7. Extrapolation risk analysis](./O_turicata/Extrapolation_risk/Extrapolation_risk.md)
 
-[8. Análisis final](./O_turicata/Final_analysis/Final_analysis.md)
+[8. Final analysis](./O_turicata/Final_analysis/Final_analysis.md)
 
 [9. Idoneidad ecorregional](./Files/Ecoregions_analysis.md)
 
-[10. Mapas de idoneidad](./O_turicata/Maps/Maps.md)
+[10. Suitability maps](./O_turicata/Maps/Maps.md)
 
