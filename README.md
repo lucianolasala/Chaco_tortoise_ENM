@@ -19,7 +19,7 @@ This repository contains code used in analyses related to the publication **Chac
 - [Links to Google Earth Engine script](./Files/Links_scripts.md)
 - [Protected areas](./Files/Areas_protegidas.md)
 
-[3. Environmental variables selection](./Files/Seleccion_variables.md) 
+[3. Environmental variables selection](./Scripts/Variables_selection.md) 
 
 [4. Calibration area](./O_turicata/Calibration_area/Calibration_area.md)
 
