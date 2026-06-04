@@ -9,10 +9,10 @@
 This repository contains code used in analyses related to the publication **Chaco tortoise distribution and conservation needs: are they underprtected?**.  
  
 
-### Table of contents LOCA
+### Table of contents
 ----------
 
-[1. Workflow](./Files/Flujo_trabajo.md) Joaco
+[1. Workflow](./Files/Flujo_trabajo.md)
 
 [2. Geospatial data processing](./README.md)  
 - [Variables](./Files/Variables.md)
